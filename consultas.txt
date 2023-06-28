@@ -1,0 +1,21 @@
+Recopilación de consultas necesarias
+1.	Cantidad requerida: ¿Cuántos cintillos de identificación se necesitan para la campaña?
+2.	Especificaciones del cintillo: ¿Cuáles son las especificaciones técnicas de los cintillos de identificación requeridos? Por ejemplo, tamaño, color, resistencia al agua, etc.
+3.	Información a imprimir: ¿Qué información se debe imprimir en los cintillos de identificación? Esto puede incluir el nombre del perro, el número de identificación, el nombre del dueño, el número de teléfono, etc.
+4.	Personalización: ¿Se requiere algún tipo de personalización en los cintillos de identificación, como logos, imágenes o texto adicional?
+5.	Proceso de pedido: ¿Cuál es el proceso de pedido y aprobación para adquirir los cintillos de identificación? ¿Quién es el responsable de autorizar y realizar el pedido?
+6.	Plazo de entrega: ¿Cuál es el plazo de entrega esperado para los cintillos de identificación? ¿Existe alguna fecha límite para recibirlos?
+7.	Presupuesto: ¿Hay un presupuesto asignado para la adquisición de los cintillos de identificación? En caso afirmativo, ¿cuál es el límite presupuestario?
+8.	Proveedor: ¿Se tiene algún proveedor preferido para adquirir los cintillos de identificación? En caso contrario, ¿se requiere que el sistema sugiera opciones de proveedores?
+9.	Requisitos de seguimiento: ¿Se necesita algún sistema o proceso para realizar un seguimiento de los cintillos de identificación una vez entregados, como registro, inventario o control de existencias?
+10.	Informes y registros: ¿Se requiere generar informes o mantener registros relacionados con la adquisición y distribución de los cintillos de identificación?
+11.	Distribución de los cintillos: ¿Cuál es el método o proceso previsto para distribuir los cintillos de identificación a los dueños de los perros vacunados? ¿Se necesitará algún sistema de registro o seguimiento para asegurar la entrega adecuada?
+12.	Reemplazo de cintillos perdidos o dañados: ¿Existe un procedimiento para reemplazar los cintillos de identificación que se pierdan o dañen durante la campaña de vacunación? ¿Cómo se solicitarían y distribuirían los reemplazos?
+13.	Compatibilidad con sistemas existentes: ¿Es necesario que los cintillos de identificación sean compatibles con algún sistema o dispositivo existente utilizado en la campaña de vacunación antirrábica canina, como lector de identificación o base de datos?
+14.	Requisitos legales: ¿Existen requisitos legales o reglamentarios específicos para los cintillos de identificación utilizados en la campaña de vacunación? Por ejemplo, normas de identificación animal o regulaciones de seguridad y salud.
+15.	Personalización de la información impresa: ¿Se requiere la capacidad de personalizar la información impresa en los cintillos de identificación según las necesidades individuales de los dueños de los perros?
+16.	Tamaño de las cintas: ¿Hay alguna restricción de tamaño para los cintillos de identificación? ¿Se requiere un tamaño estándar o hay opciones de tamaños diferentes?
+17.	Colocación de los cintillos: ¿Se proporcionarán instrucciones o directrices sobre la forma correcta de colocar los cintillos de identificación en los perros?
+18.	Durabilidad de los cintillos: ¿Se requiere que los cintillos de identificación sean duraderos y resistentes a condiciones ambientales adversas, como agua, sol o rasguños?
+19.	Forma de pago: ¿Cómo se realizará el pago por los cintillos de identificación? ¿Este pago se realizará en efectivo o tarjeta?
+20.	Gestión de devoluciones: ¿Existe un proceso establecido para gestionar devoluciones o reembolsos en caso de cintillos de identificación defectuosos o no conformes con las especificaciones?

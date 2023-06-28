@@ -1,0 +1,109 @@
+[
+  {
+    "Especificaciones": "Tamaño pequeño",
+    "Plazo_entrega": "2 semanas",
+    "Cantidad": 100,
+    "Personalizacion": "No",
+    "Presupuesto": "$500",
+    "Proveedor_preferido": "Proveedor A"
+  },
+  {
+    "Especificaciones": "Tamaño mediano",
+    "Plazo_entrega": "1 semana",
+    "Cantidad": 50,
+    "Personalizacion": "Sí",
+    "Presupuesto": "$300",
+    "Proveedor_preferido": "Proveedor B"
+  },
+
+
+
+  {
+    "Fecha_Vacunacion": "2023-06-01",
+    "Tamano": "Pequeño",
+    "Color": "Rojo",
+    "Resistencia_agua": "Sí"
+  },
+  {
+    "Fecha_Vacunacion": "2023-06-15",
+    "Tamano": "Mediano",
+    "Color": "Azul",
+    "Resistencia_agua": "No"
+  },
+
+
+
+  {
+    "Correo": "proveedorA@gmail.com",
+    "Nombre": "Proveedor A",
+    "Direccion": "Dirección A",
+    "Telefono": "123456789"
+  },
+  {
+    "Correo": "proveedorB@gmail.com",
+    "Nombre": "Proveedor B",
+    "Direccion": "Dirección B",
+    "Telefono": "987654321"
+  },
+
+
+
+  {
+    "Correo": "propietario1@gmail.com",
+    "Nombre": "Juan Pérez",
+    "Telefono": "987654321",
+    "Direccion": "Dirección A"
+  },
+  {
+    "Correo": "propietario2@gmail.com",
+    "Nombre": "María Gómez",
+    "Telefono": "123456789",
+    "Direccion": "Dirección B"
+  },
+
+
+
+
+  {
+    "Nombre_Mascota": "Max",
+    "Num_identificacion": "1234",
+    "Datos_salud": "Salud A"
+  },
+  {
+    "Nombre_Mascota": "Bella",
+    "Num_identificacion": "5678",
+    "Datos_salud": "Salud B"
+  },
+
+
+
+
+  {
+    "Fecha_Vacunacion": "2023-06-01",
+    "Especificaciones": "Tamaño pequeño",
+    "Correo": "proveedorA@gmail.com",
+    "Nombre_Mascota": "Max",
+    "Estado": "Defectuoso"
+  },
+  {
+    "Fecha_Vacunacion": "2023-06-15",
+    "Especificaciones": "Tamaño mediano",
+    "Correo": "proveedorB@gmail.com",
+    "Nombre_Mascota": "Bella",
+    "Estado": "Entregado"
+  },
+
+
+
+
+  {
+    "Especificaciones": "Tamaño pequeño",
+    "Monto": "500",
+    "Forma_pago": "Efectivo"
+  },
+  {
+    "Especificaciones": "Tamaño mediano",
+    "Monto": "300",
+    "Forma_pago": "Tarjeta"
+  }
+]
