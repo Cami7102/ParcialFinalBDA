@@ -8,7 +8,7 @@ Esta base de datos NoSQL esta diseñada a requerimiento de una convocatorio lanz
 En esta base de datos se detallara toda la informacion importante para la adquisicion de estos cintillos como: informacion de los productos, compra, detalle de la compra, solicitudes, detalle de esta solicitud, empleados, proveedores, propietarios, mascotas, vacunacion y vacunas. A continuacion se mostrara los atributos de cada uno de forma organizada.
 
 ### **Consultas**
-[label](consultas.txt)
+[Consultas Necesarias](consultas.txt)
 
 ### **Entidades**
 Entidades analizadas de las consultas:
@@ -19,7 +19,7 @@ El diagrama esta diseñado para ser no relacional:
 ![Alt text](ProyectoFinalUML.png)
 
 ### **Ejemplos en JSON**
-[label](final-nodejs)
+[Ejemplos](final-nodejs)
 
 ### **Requisistos tecnicos**
 PASO #1
